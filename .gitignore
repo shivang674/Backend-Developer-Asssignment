@@ -1,0 +1,30 @@
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Postman environments (if sensitive)
+*.postman_environment.json
