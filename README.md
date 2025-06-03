@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Booking API
 
 This is a complete RESTful API backend for a service booking platform. It supports user/provider registration, login with mock OTP, service management, bookings, and Razorpay payment integration.
@@ -107,3 +108,6 @@ Import `Booking_API.postman_collection.json` in Postman to test all routes.
 ## 🧑‍💻 Author
 
 Generated and structured for production-ready deployment. Customize and expand as needed.
+=======
+# Backend-Developer-Asssignment
+>>>>>>> 4ce9dfeb8ea6fa07a5278fe8beb3276be3963b62
